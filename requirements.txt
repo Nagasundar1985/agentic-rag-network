@@ -1,0 +1,7 @@
+langgraph
+langchain-openai
+langchain-chroma
+pydantic
+streamlit
+numpy
+langchain-experimental
